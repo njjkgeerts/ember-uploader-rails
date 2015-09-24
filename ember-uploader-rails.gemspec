@@ -5,7 +5,7 @@ require 'ember-uploader-rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "ember-uploader-rails"
-  spec.version       = AngularDragdrop::Rails::VERSION
+  spec.version       = EmberUploader::Rails::VERSION
   spec.authors       = ["Nick Geerts"]  
   spec.description   = %q{Ember-uploader packaged for the Rails assets pipeline.}
   spec.summary       = %q{Ember-uploader packaged for the Rails assets pipeline.}
