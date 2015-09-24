@@ -1,3 +1,2 @@
-//= require ember-rails
-//= require ember-source
+//= require ember
 //= require ember-uploader-original
