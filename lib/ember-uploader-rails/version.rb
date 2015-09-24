@@ -1,5 +1,5 @@
 module AngularDragdrop
   module Rails
-    VERSION = "0.3.10.beta.1"
+    VERSION = "0.3.10.beta.2"
   end
 end
