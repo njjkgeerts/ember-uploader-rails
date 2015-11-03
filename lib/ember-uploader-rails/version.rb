@@ -1,5 +1,5 @@
 module EmberUploader
   module Rails
-    VERSION = "0.3.10.beta.2"
+    VERSION = "0.3.11"
   end
 end
