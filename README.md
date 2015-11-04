@@ -1,6 +1,6 @@
-# Ember Uploader [![Build Status](https://travis-ci.org/benefitcloud/ember-uploader.svg?branch=master)](https://travis-ci.org/benefitcloud/ember-uploader)
+# Ember Uploader (for Rails)
 
-Rails package of [Ember.js file uploader](https://github.com/benefitcloud/ember-uploader). Original by 
+Rails package of [Ember Uploader](https://github.com/benefitcloud/ember-uploader). Original by 
 [Joshua Borton](https://github.com/digitaltoad). Works with any browser that supports 
 [FormData](http://caniuse.com/#search=FormData). 
 
